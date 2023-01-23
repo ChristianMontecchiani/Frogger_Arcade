@@ -9,6 +9,8 @@ This is our implementation of the classic arcade game Frogger. Players must navi
 - Multiple levels with increasing difficulty
 - High score leaderboard
 - Retro 8-bit graphics and sound
+
+This is a screen of the gameplay:
 <div align="center">
    <img width="500px" height="auto" src="https://github.com/ChristianMontecchiani/Frogger_Arcade/blob/main/images/game_screen.png"> 
  </div>

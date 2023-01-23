@@ -1,4 +1,5 @@
 # Frogger_Arcade
+##### by Luca Tombei and Christian Montecchiani.
 
 ## Description
 
